@@ -1,5 +1,5 @@
 # Hospitality-Domain-Report
-https://app.powerbi.com/groups/me/reports/fcfa17e6-39c0-41d5-b3dc-4827cfefbb08/dc62814517d1315706ce?experience=power-bi
+
 Hospitality Domain Report by using Excel and PowerBI
 
 "Delighted to share my captivating project on ‘Revenue Insights in the Hospitality Industry’!"
