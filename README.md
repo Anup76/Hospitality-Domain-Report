@@ -2,6 +2,8 @@
 
 Hospitality Domain Report by using Excel and PowerBI
 
+**Live Dashboard**- [Click Here](https://app.powerbi.com/view?r=eyJrIjoiYzI3NDI3MGItMzhkYS00MTFmLWJkMzItNGFlMmVkODU3ZmYzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 "Delighted to share my captivating project on ‘Revenue Insights in the Hospitality Industry’!"
 
 Through this journey, I have had the opportunity to explore the unique obstacles faced by the hospitality industry and apply my expertise in data analytics to tackle practical issues.
