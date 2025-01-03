@@ -8,9 +8,30 @@ Hospitality Domain Report by using Excel and PowerBI
 
 Through this journey, I have had the opportunity to explore the unique obstacles faced by the hospitality industry and apply my expertise in data analytics to tackle practical issues.
 
-This project aimed to offer data-driven perspectives to the Revenue team within the hospitality sector. It is an exhilarating challenge to utilize data analytics in order to address real-world obstacles and make well-informed decisions.
+## Project Overview
+Atliq Grands has seen a decline in its market share and revenue due to competitive pressures and management decisions. This project is centered around revitalizing the business by utilizing hospitality analytics to make well-informed decisions.
+
+## Project Goal
+This project aims to boost Atliq Grands' market share and revenue within the luxury business hotel sector. The company aims to surpass competitors and enhance management decision-making by applying data-driven strategies and business intelligence
+
+## Data Structure and Data Modeling
+I gathered the dataset used from Codebasics’ website.
+
+The datasets contain Two types of tables -->
+
+Dimension table: Static data like customer and product details.
+
+Fact table: Transaction data.
+
+1. dim_date
+2. dim_hotels
+3. dim_rooms
+4. fact_aggregated_bookings
+5. fact_bookings
 
 Leveraging Power BI, I have created a dynamic dashboard that offers valuable insights into essential elements of the Hospitality Domain:
+
+Key Metrics:-
 1. 𝗥𝗲𝘃𝗣𝗔𝗥 (Revenue Per Available Room): A critical metric for understanding revenue generation.
 2. 𝗔𝗗𝗥 (Average Daily Rate): Analyzing the average rate paid for rooms sold.
 3. 𝗗𝗕𝗥𝗡 (Daily Booked Room Nights): Tracking daily room bookings.
